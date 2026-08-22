@@ -7,7 +7,7 @@ Created by: Ayush A. Jivani
 
 Language: Python
 
-Project Type: Fundamental Booster / Python – Data Science
+Project Type: Fundamental Booster 
 
 📌 About
 

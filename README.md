@@ -3,7 +3,10 @@ fundamental booster project in python
 🚀 Fundamental Booster – Personal Data Collector
 
 Created by: Ayush A. Jivani
+
+
 Language: Python
+
 Project Type: Fundamental Booster / Python – Data Science
 
 📌 About

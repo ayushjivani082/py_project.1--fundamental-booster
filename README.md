@@ -34,8 +34,7 @@ python personal_data_collector.py
 🔗 Project Links
 
 📁 GitHub Repository:
-"View Repository" (PASTE_YOUR_REPO_LINK_HERE)
-
+"View Repository" - https://github.com/ayushjivani082/py_project.1--fundamental-booster/blob/main/python_pr.1.fundamental%20booster.py
 🎥 Project Explanation Video:
 "Watch Video" (PASTE_YOUR_VIDEO_LINK_HERE)
 

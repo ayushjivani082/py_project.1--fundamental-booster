@@ -47,7 +47,7 @@ if total_score > 100:
     total_score + 100
 
 
-#Program Flow + Dta Processing    
+#Program Flow + Data Processing    
 
 if total_score >= 80:
     leval = "python Pro Booster"

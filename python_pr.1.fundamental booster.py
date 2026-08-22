@@ -141,7 +141,10 @@ print(f"{name} , your Python Fundametal Booster Score is{total_score}/100!")
 print("keep practicing , keep building , and become a better Python coder.")
 print("=" * 65)
 
-    
+print("thank you")
+
+
+#=====================THANK YOU======================
 
  
 

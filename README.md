@@ -10,7 +10,7 @@ Language: Python
 
 🔗 Project Links
 
-📁 GitHub Repository: "View Repository" - https://github.com/ayushjivani082/py_project.1--fundamental-booster/blob/main/python_pr.1.fundamental%20booster.py
+📁 GitHub Repository: "View Repository" - https://github.com/ayushjivani082/py_project.1--fundamental-booster/blob/32e413c2826a1b7c90e1ec334e92425ec8357d84/1.fundamental%20booster.py
 
 🎥 Project Explanation Video: "Watch Video" https://drive.google.com/file/d/14SyRPsTEd_inJuk8U5uDY-jdbJrksfkM/view?usp=drive_link
 

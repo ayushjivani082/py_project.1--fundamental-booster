@@ -1,9 +1,8 @@
-#======================WELCOME==============================
 
-#=================CREAT by : AYUSH JIVANI=====================
+# CREAT by : AYUSH JIVANI
 
 
-#================== PYTHON FUNDAMENTAL BOOSTER================
+# PYTHON FUNDAMENTAL BOOSTER
 
 print("=" * 65)
 print("PYTHON FUNDAMETAL BOOSTER")

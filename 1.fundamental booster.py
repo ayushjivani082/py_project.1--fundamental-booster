@@ -1,5 +1,4 @@
 
-# CREAT by : AYUSH JIVANI
 
 
 # PYTHON FUNDAMENTAL BOOSTER
@@ -9,9 +8,7 @@ print("PYTHON FUNDAMETAL BOOSTER")
 print("SMART LEARNING SKILL ANALYZER")
 print("=" * 65)
 
-
-
-# input() + Variable + Data Types
+
 
 name = input("Enter your name:")
 age = int(input("Enter your age:"))
@@ -24,12 +21,10 @@ favourite_number = int(input("Enter your favourite number:"))
 
 
 
-# Type casting
-
 age_number = int(age)
 hours_number = float(coding_hours)
 
-# Operator + arithmetic Calculation
+
 
 practice_score = practies_days*6
 coding_score = int(hours_number*7)
@@ -37,12 +32,11 @@ topic_score = python_topic*4
 
 total_score = practice_score + coding_score + topic_score
 
-#Keep score between 0 and 100
+
 if total_score > 100:
     total_score + 100
 
-
-#Program Flow + Data Processing    
+ 
 
 if total_score >= 80:
     leval = "python Pro Booster"
@@ -62,12 +56,11 @@ else :
     practies_message = "Practies a little every day."
 
 
-    
-# String Concatenation + Formatted String
+ 
 profile_title = "BOOSTER PROFILE-" + name
 
 
-# print() + Display Results
+
 print("\n" + "=" * 65)
 print(profile_title)
 print("=" * 65)
@@ -88,7 +81,7 @@ print(f"TOTAL SCORE  :{total_score}/100")
 print(f"LEVAL    :{leval}")
 print(f"ADVICE  :{practies_message}")
 
-# type() Function
+
 
 print("\n" + "=" * 65)
 print("DATA TYPE CHECK")
@@ -101,7 +94,7 @@ print(f"coding_hours   :{type(coding_hours).__name__}")
 print(f"python_topic   :{type(python_topic).__name__}")
 print(f"goal    :{type(goal).__name__}")
 
-# id()Function + Memory Address
+
 
 print("\n" + "=" * 65)
 print("MEMORY CHECK")

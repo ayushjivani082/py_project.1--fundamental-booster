@@ -1,6 +1,3 @@
-
-
-
 # PYTHON FUNDAMENTAL BOOSTER
 
 print("=" * 65)
